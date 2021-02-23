@@ -28,3 +28,24 @@ You can find all my posts on my website at [dtaduc.com](https://dtaduc.com/). I 
 ![](https://img.shields.io/badge/Code-Java-important?style=plastic&logo=java&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/Code-iOS-important?style=plastic&logo=ios&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/Chatbot-Dialogflow-important?style=plastic&logo=dialogflow&logoColor=white&color=FFA500)
+
+
+### Github Stat
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootofmylife&show_icons=true&theme=slateorange" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rootofmylife&show_icons=true&line_height=27&count_private=true&theme=slateorange" alt="Duc Do's GitHub Stats" />
+</p>
+
+
+<!-- Resources -->
+<!-- Github ideas: https://github.com/MartinHeinz/MartinHeinz -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
