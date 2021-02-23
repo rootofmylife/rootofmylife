@@ -1,3 +1,5 @@
+# [![header](https://raw.githubusercontent.com/rootofmylife/rootofmylife/main/banner/gh_banner.gif)](https://dtaduc.com)
+
 ### Hi there 👋
 
 **rootofmylife/rootofmylife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
