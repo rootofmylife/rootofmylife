@@ -1,6 +1,6 @@
 # [![header](https://raw.githubusercontent.com/rootofmylife/rootofmylife/main/banner/gh_banner_v2.png)](https://dtaduc.com)
 
-### Hi there 👋
+## Hi there 👋
 
 My name is Duc and I am a NLP researcher ft. full-stack developer. I currently live in Vietnam and work as freelancer.
 
@@ -9,11 +9,11 @@ My name is Duc and I am a NLP researcher ft. full-stack developer. I currently l
 - 💬 Ask me about anything if I can help you.
 - 📫 How to reach me: dotrananhduc@gmail.com
 
-### Blogs
+## Blogs
 
 You can find all my posts on my website at [dtaduc.com](https://dtaduc.com/). I am actively maintaining all posts there.
 
-### Technologies
+## Technologies
 
 ![](https://img.shields.io/badge/OS-Linux-important?style=plastic&logo=linux&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/Code-Python-important?style=plastic&logo=python&logoColor=white&color=FFA500)
@@ -30,7 +30,7 @@ You can find all my posts on my website at [dtaduc.com](https://dtaduc.com/). I 
 ![](https://img.shields.io/badge/Chatbot-Dialogflow-important?style=plastic&logo=dialogflow&logoColor=white&color=FFA500)
 
 
-### Github Stat
+## Github Stat
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootofmylife&show_icons=true&theme=slateorange" />
@@ -40,6 +40,21 @@ You can find all my posts on my website at [dtaduc.com](https://dtaduc.com/). I 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rootofmylife&show_icons=true&line_height=27&count_private=true&theme=slateorange" alt="Duc Do's GitHub Stats" />
 </p>
 
+## Contacts
+
+<p align="center">
+  <a href="https://github.com/rootofmylife" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=Github&logoColor=white" />
+  </a> 
+  
+  <a href="https://www.linkedin.com/in/dtaduc1512122" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+   <a href="mailto:dotrananhduc@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <!-- Resources -->
 <!-- Github ideas: https://github.com/MartinHeinz/MartinHeinz -->
@@ -49,3 +64,5 @@ You can find all my posts on my website at [dtaduc.com](https://dtaduc.com/). I 
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+<!-- Web: https://dev.to/pedes/make-your-github-profile-great-again-oan -->
+<!-- Badge Contacts: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
