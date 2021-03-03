@@ -30,7 +30,7 @@ You can find all my posts on my website at [dtaduc.com](https://dtaduc.com/). I 
 ![](https://img.shields.io/badge/Chatbot-Dialogflow-important?style=plastic&logo=dialogflow&logoColor=white&color=FFA500)
 
 
-## Github Stat
+## Github Stats
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootofmylife&show_icons=true&theme=slateorange" />
