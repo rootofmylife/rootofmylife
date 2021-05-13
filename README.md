@@ -1,4 +1,4 @@
-# [![header](https://raw.githubusercontent.com/rootofmylife/rootofmylife/main/banner/gh_banner_v2.png)](https://dtaduc.com)
+# [![header](https://raw.githubusercontent.com/rootofmylife/rootofmylife/main/banner/gh_banner.png)](https://dtaduc.com)
 
 ## Hi there 👋
 
