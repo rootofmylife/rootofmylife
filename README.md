@@ -11,7 +11,7 @@ My name is Duc and I am a NLP researcher ft. full-stack developer. I currently l
 
 ## Blogs
 
-You can find all my posts on my website at [dtaduc.com](https://dtaduc.com/). I am actively maintaining all posts there.
+You can find all my posts on my website at [treesdoo.com](https://treesdoo.com/). I am actively maintaining all posts there.
 
 ## Technologies
 
