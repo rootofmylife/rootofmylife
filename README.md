@@ -15,8 +15,8 @@ You can find all my posts on my website at [treesdoo.com](https://treesdoo.com/)
 
 ## Technologies
 
-![](https://img.shields.io/badge/Code-Html-important?style=plastic&logo=html&logoColor=white&color=FFA500)
-![](https://img.shields.io/badge/Code-Css-important?style=plastic&logo=css&logoColor=white&color=FFA500)
+![](https://img.shields.io/badge/Code-Html5-important?style=plastic&logo=html5&logoColor=white&color=FFA500)
+![](https://img.shields.io/badge/Code-CSS3-important?style=plastic&logo=css3&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/Code-Python-important?style=plastic&logo=python&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/Code-JavaScript-important?style=plastic&logo=javascript&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/Code-Kotlin-important?style=plastic&logo=kotlin&logoColor=white&color=FFA500)
@@ -37,8 +37,10 @@ You can find all my posts on my website at [treesdoo.com](https://treesdoo.com/)
 
 ![](https://img.shields.io/badge/Chatbot-Dialogflow-important?style=plastic&logo=dialogflow&logoColor=white&color=FFA500)
 
+![](https://img.shields.io/badge/Database-PostgreSQL-important?style=plastic&logo=postgresql&logoColor=white&color=FFA500)
+
 ![](https://img.shields.io/badge/OS-Linux-important?style=plastic&logo=linux&logoColor=white&color=FFA500)
-![](https://img.shields.io/badge/OS-Apple-important?style=plastic&logo=linux&logoColor=white&color=FFA500)
+![](https://img.shields.io/badge/OS-macOS-important?style=plastic&logo=macos&logoColor=white&color=FFA500)
 
 ## Now Playing
 
@@ -53,6 +55,17 @@ You can find all my posts on my website at [treesdoo.com](https://treesdoo.com/)
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rootofmylife&show_icons=true&line_height=27&count_private=true&theme=slateorange" alt="Duc Do's GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rootofmylife&theme=slateorange" />
+<p>
+
+<p align="center" >
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rootofmylife&theme=slateorange" />
+</p>
+
+## GitHub Activity:
+  <img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rootofmylife&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 ## Contacts
 
