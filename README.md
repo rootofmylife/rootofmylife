@@ -29,6 +29,9 @@ You can find all my posts on my website at [treesdoo.com](https://treesdoo.com/)
 ![](https://img.shields.io/badge/Code-iOS-important?style=plastic&logo=ios&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/Chatbot-Dialogflow-important?style=plastic&logo=dialogflow&logoColor=white&color=FFA500)
 
+## Now Playing
+
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 
 ## Github Stats
 
