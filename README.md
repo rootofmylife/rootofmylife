@@ -30,10 +30,12 @@ You can find all my posts on my website at [treesdoo.com](https://treesdoo.com/)
 ![](https://img.shields.io/badge/Framework-Vue-important?style=plastic&logo=vue.js&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/Framework-Pytorch-important?style=plastic&logo=pytorch&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/Framework-Django-important?style=plastic&logo=django&logoColor=white&color=FFA500)
+![](https://img.shields.io/badge/Framework-TailwindCSS-important?style=plastic&logo=tailwindcss&logoColor=white&color=FFA500)
 
 ![](https://img.shields.io/badge/Shell-Bash-important?style=plastic&logo=gnu-bash&logoColor=white&color=FFA500)
 
 ![](https://img.shields.io/badge/Platform-Android-important?style=plastic&logo=android&logoColor=white&color=FFA500)
+![](https://img.shields.io/badge/Platform-Heroku-important?style=plastic&logo=heroku&logoColor=white&color=FFA500)
 
 ![](https://img.shields.io/badge/Chatbot-Dialogflow-important?style=plastic&logo=dialogflow&logoColor=white&color=FFA500)
 
@@ -65,7 +67,7 @@ You can find all my posts on my website at [treesdoo.com](https://treesdoo.com/)
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rootofmylife&title=Commit,Stars,Repositories,PullRequest,Followers&theme=slateorange" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rootofmylife&margin-w=15&margin-h=15&theme=slateorange" />
 </p>
 
 ## GitHub Activity:
